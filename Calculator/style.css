@@ -2,6 +2,22 @@ body{
     background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 }
 .col-md-6{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
     border:2px solid black;
     margin:150px !important;
+}
+button{
+    width: 100%;
+    background-color: rgb(109, 109, 244);
+    color:black;
+    font-weight: bolder;
+    border: 3px solid black;
+}
+input{
+    width: 100%;
+    border:3px solid black;
+}
+h1{
+    font-weight: bolder !important;
+    margin:20px !important;
 }
