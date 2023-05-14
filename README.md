@@ -12,3 +12,10 @@ Web Gradient :- copy and paste the color you want.
 # Typed JS cdn
 <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.0/typed.js" integrity="sha512-ioFpA4cD4gmoOhHglW4f6gep7w+YL7UMKtXx4ebJ5NN4SscmnZYYmSjkA+DaHGvBI4wpYVPx2C7DmmV9TgbIbQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+# AOS
+
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
