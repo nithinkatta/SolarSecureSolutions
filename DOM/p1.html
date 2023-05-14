@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DOM page</title>
+    </head>
+    <body>
+        
+        <h1>This is h1</h1>
+        <h1>second h1 tag</h1>
+    </body>
+</html>
+<script>
+    var x = document.getElementsByTagName('h1')
+    x[0].innerHTML = 'Changed'
+    x[1].style.color = 'red'
+
+    // document.getElementById()
+    // document.getElementsByClassName()
+    // document.getElementsByName()
+    // document.getElementsByTagName()
+</script>
